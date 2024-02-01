@@ -15,14 +15,12 @@ public class Polynomial_Derivative {
         int cnt = 0;
         while (cnt < n) {
             cnt++;
-            for (int i = 0; i < num.length - cnt; i++)
+            for (int i = 0; i < num.length - cnt; i++){
                 num[i] = num[i + 1] * (i + 1);
+            }
         }
 
         for (int i = 0; i < num.length - cnt; i++)
             System.out.print(num[i] + " ");
-
-
-
         }
 }
