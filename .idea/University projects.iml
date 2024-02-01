@@ -8,6 +8,7 @@
       <sourceFolder url="file://$MODULE_DIR$/CSC2003 Java/Tutorials/Tutorial2" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Operating System/Fork Child process/program1" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Operating System/Fork Child process/program2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Operating System/Indirect_Block/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
